@@ -1,0 +1,3 @@
+[submodule "Cloth_CUDA"]
+	path = Cloth_CUDA
+	url = https://github.com/stevenBorisko/Cloth_CUDA.git
