@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-#include <GL/glut.h>
+#include <GL/glut.h> //TEST
 
 
 // angle of rotation for the camera direction
